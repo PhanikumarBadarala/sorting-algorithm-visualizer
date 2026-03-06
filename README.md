@@ -37,3 +37,7 @@ Sorting Algorithm Visualizer using Python and Pygame
 ## Screenshot
 
 ![Sorting Visualizer](screenshot.png)
+
+## Demo
+
+![Sorting Demo](demo.gif)
