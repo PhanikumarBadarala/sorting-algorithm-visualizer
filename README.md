@@ -34,3 +34,6 @@ A visual tool to demonstrate how sorting algorithms work using Python.
 - Pygame
 - Data Structures and Algorithms# sorting-algorithm-visualizer
 Sorting Algorithm Visualizer using Python and Pygame
+## Screenshot
+
+![Sorting Visualizer](screenshot.png)
